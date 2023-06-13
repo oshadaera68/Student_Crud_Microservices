@@ -24,6 +24,7 @@
       <set>
         <option value="$PROJECT_DIR$/core-services/pom.xml" />
         <option value="$PROJECT_DIR$/microservices-campus/pom.xml" />
+        <option value="$PROJECT_DIR$/subject/pom.xml" />
       </set>
     </option>
   </component>

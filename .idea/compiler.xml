@@ -10,6 +10,7 @@
         <module name="student-service" />
         <module name="Api-Gateway" />
         <module name="diploma-service" />
+        <module name="subject-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
