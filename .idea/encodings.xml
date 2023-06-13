@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Api-Gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/core-services/api-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/core-services/api-gateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/core-services/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/core-services/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/microservices-campus/diploma/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diploma-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diploma-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-campus/Authentication-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-campus/Authentication-Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-campus/Diploma-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-campus/Student-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices-campus/Subject-Service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservices-campus/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservices-campus/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/microservices-campus/student/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/microservices-campus/subject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student-service/src/main/resources" charset="UTF-8" />
   </component>
 </project>

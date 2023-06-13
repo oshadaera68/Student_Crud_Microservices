@@ -14,10 +14,20 @@
         <option value="$PROJECT_DIR$/core-services/pom.xml" />
         <option value="$PROJECT_DIR$/core-services/api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/microservices-campus/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/student-service/pom.xml" />
+        <option value="$PROJECT_DIR$/diploma-service/pom.xml" />
+        <option value="$PROJECT_DIR$/subject-service/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/core-services/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices-campus/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

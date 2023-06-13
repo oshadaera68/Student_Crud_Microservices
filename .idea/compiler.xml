@@ -7,19 +7,33 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="api-gateway" />
-        <module name="diploma" />
-        <module name="student" />
-        <module name="subject" />
+        <module name="student-service" />
+        <module name="Api-Gateway" />
+        <module name="diploma-service" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="17" />
+      <module name="Authentication-Service" target="1.5" />
+      <module name="AuthenticationService" target="1.5" />
+      <module name="core-services" target="1.5" />
+      <module name="Diploma-Service" target="17" />
+      <module name="diplomaservice" target="17" />
+      <module name="microservices-campus" target="1.5" />
+      <module name="Student-Service" target="17" />
+      <module name="Subject-Service" target="17" />
+      <module name="untitled" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Api-Gateway" options="-parameters" />
+      <module name="Diploma-Service" options="-parameters" />
+      <module name="Student-Service" options="-parameters" />
+      <module name="Subject-Service" options="-parameters" />
       <module name="api-gateway" options="-parameters" />
-      <module name="diploma" options="-parameters" />
-      <module name="student" options="-parameters" />
-      <module name="subject" options="-parameters" />
+      <module name="diploma-service" options="-parameters" />
+      <module name="student-service" options="-parameters" />
     </option>
   </component>
 </project>
