@@ -35,6 +35,7 @@
       <module name="api-gateway" options="-parameters" />
       <module name="diploma-service" options="-parameters" />
       <module name="student-service" options="-parameters" />
+      <module name="subject-service" options="-parameters" />
     </option>
   </component>
 </project>
